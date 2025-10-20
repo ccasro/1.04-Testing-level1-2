@@ -1,13 +1,9 @@
 package org.ccasro.level1.exercise1;
 
-/**
- * Hello world!
- *
- */
-public class App 
+public class AppL1E1
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+
     }
 }
